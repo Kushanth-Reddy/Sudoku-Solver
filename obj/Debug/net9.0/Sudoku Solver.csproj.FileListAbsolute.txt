@@ -1,0 +1,15 @@
+/Users/kushanthreddy/dev/c#/Sudoku Solver/bin/Debug/net9.0/Sudoku Solver
+/Users/kushanthreddy/dev/c#/Sudoku Solver/bin/Debug/net9.0/Sudoku Solver.deps.json
+/Users/kushanthreddy/dev/c#/Sudoku Solver/bin/Debug/net9.0/Sudoku Solver.runtimeconfig.json
+/Users/kushanthreddy/dev/c#/Sudoku Solver/bin/Debug/net9.0/Sudoku Solver.dll
+/Users/kushanthreddy/dev/c#/Sudoku Solver/bin/Debug/net9.0/Sudoku Solver.pdb
+/Users/kushanthreddy/dev/c#/Sudoku Solver/obj/Debug/net9.0/Sudoku Solver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kushanthreddy/dev/c#/Sudoku Solver/obj/Debug/net9.0/Sudoku Solver.AssemblyInfoInputs.cache
+/Users/kushanthreddy/dev/c#/Sudoku Solver/obj/Debug/net9.0/Sudoku Solver.AssemblyInfo.cs
+/Users/kushanthreddy/dev/c#/Sudoku Solver/obj/Debug/net9.0/Sudoku Solver.csproj.CoreCompileInputs.cache
+/Users/kushanthreddy/dev/c#/Sudoku Solver/obj/Debug/net9.0/Sudoku Solver.dll
+/Users/kushanthreddy/dev/c#/Sudoku Solver/obj/Debug/net9.0/refint/Sudoku Solver.dll
+/Users/kushanthreddy/dev/c#/Sudoku Solver/obj/Debug/net9.0/Sudoku Solver.pdb
+/Users/kushanthreddy/dev/c#/Sudoku Solver/obj/Debug/net9.0/Sudoku Solver.genruntimeconfig.cache
+/Users/kushanthreddy/dev/c#/Sudoku Solver/obj/Debug/net9.0/ref/Sudoku Solver.dll
+/Users/kushanthreddy/dev/c#/Sudoku Solver/obj/Debug/net9.0/Sudoku Solver.sourcelink.json
